@@ -13,7 +13,7 @@ set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 
 Bundle 'gmarik/vundle'
-"Bundle 'aaronfeng/vim-aaronfeng'
+Bundle 'aaronfeng/vim-aaronfeng'
 Bundle 'tpope/vim-fugitive'
 Bundle 'tpope/vim-rails'
 Bundle 'tpope/vim-cucumber'
