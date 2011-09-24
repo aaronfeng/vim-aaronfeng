@@ -1,4 +1,4 @@
-# My VIM setup (that I stole from matschaffer)
+# My VIM setup (that I stole from https://github.com/matschaffer/vim-matschaffer)
 
 ## Installation
 
